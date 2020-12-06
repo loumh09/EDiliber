@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "922520462147",
+    "firebase_url": "https://eatitv2-d5973.firebaseio.com",
+    "project_id": "eatitv2-d5973",
+    "storage_bucket": "eatitv2-d5973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922520462147:android:db6ba5439947b685d6c5f6",
+        "android_client_info": {
+          "package_name": "com.example.eatitv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922520462147-bn2ts1d0fvqdktvkksnakjfgrbn43gmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSSgSpA8O9-UdjUlIld14fn36cZt_uh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922520462147-bn2ts1d0fvqdktvkksnakjfgrbn43gmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922520462147:android:af21eaf2632d4242d6c5f6",
+        "android_client_info": {
+          "package_name": "com.example.server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922520462147-bn2ts1d0fvqdktvkksnakjfgrbn43gmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSSgSpA8O9-UdjUlIld14fn36cZt_uh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922520462147-bn2ts1d0fvqdktvkksnakjfgrbn43gmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922520462147:android:75ff326ce5de7571d6c5f6",
+        "android_client_info": {
+          "package_name": "com.example.shipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922520462147-bn2ts1d0fvqdktvkksnakjfgrbn43gmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSSgSpA8O9-UdjUlIld14fn36cZt_uh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922520462147-bn2ts1d0fvqdktvkksnakjfgrbn43gmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922520462147:android:127eaca5299f38cbd6c5f6",
+        "android_client_info": {
+          "package_name": "edu.ucucite.serverhard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922520462147-bn2ts1d0fvqdktvkksnakjfgrbn43gmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSSgSpA8O9-UdjUlIld14fn36cZt_uh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922520462147-bn2ts1d0fvqdktvkksnakjfgrbn43gmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
